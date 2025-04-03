@@ -1,6 +1,6 @@
 # Proyecto tesis
 
-<h2>Mejora en la aplicación de movilidad pública Biotren/Buses Concepcion</h2>
+<h3>Mejora en la aplicación de movilidad pública Biotren/Buses Concepcion</h3>
 
 #Arquitectura
-<h2>JavaScript/Pyhton/Kotlin-Java(?)</h2>
+<h3>JavaScript/Pyhton/Kotlin-Java(?)</h3>
